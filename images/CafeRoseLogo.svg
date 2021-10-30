@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="174" viewBox="0 0 512 174">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 158px;
+        fill: #fac564;
+        text-anchor: middle;
+        font-family: Righteous;
+      }
+    </style>
+  </defs>
+  <text id="Rose" class="cls-1" transform="translate(254 160.038) scale(1.366)"><tspan x="0">Rose</tspan></text>
+</svg>
